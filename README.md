@@ -1,0 +1,2 @@
+# meteor-fullcalendar
+Meteor FullCalendar
